@@ -3,7 +3,7 @@
 The basic model of classification is logistic regression(LR).    
 LR is the combination of linear regression and sigmoid activation function so, it is mainly used in prediction or analysis.    
 This project is focus on **classifying the multi class image**.    
-The number of class is 5(bacteria, lateblight, targetspot, yellowleafcurl, healthy) 
+The number of class is 5(bacteria, lateblight, targetspot, yellowleafcurl, healthy)     
 I **used the one-vs-one, one-vs-rest method**.     
   - one-vs-one : 10 binary classifiers    
   - one-vs-rest : 5 binary classifiers    
