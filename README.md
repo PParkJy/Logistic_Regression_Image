@@ -9,7 +9,7 @@ I **used the one-vs-one, one-vs-rest method**.
   - one-vs-rest : 5 binary classifiers    
   
 I did performance evaluation with **accuracy, precision, recall, f1-score, AUC**. But, AUC is inaccurate.    
-Also, the comparison in various situation(rotation, imbalance) is done.    
+Also, the comparison of performance in various situation(rotation, imbalance) is done.    
 It showed performance of almost **80% or more in accuracy, f1-score, AUC**. 
 
 <br/>
